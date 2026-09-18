@@ -54,7 +54,7 @@ int main()
     s1.display();
 
     cout << "\nCreating object 2:" << endl;
-    Student s2("Aryan", 19);
+    Student s2("Anuj", 19);
     s2.display();
 
     cout << "\nCreating object 3 using copy constructor:" << endl;
